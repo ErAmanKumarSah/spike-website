@@ -8,9 +8,10 @@
   },
   "bugs": "https://github.com//madras/issues",
   "dependencies": {
-    "babel-preset-latest" : "^6.24.1",
-    "hard-source-webpack-plugin" : "^0.3.11",
-    "image-webpack-loader" : "^3.3.0",
+    "babel-preset-latest": "^6.24.1",
+    "gatsby": "^0.12.43",
+    "hard-source-webpack-plugin": "^0.3.11",
+    "image-webpack-loader": "^3.3.0",
     "reshape-standard": "^1.0.0",
     "spike-css-standards": "^1.0.0",
     "spike-js-standards": "^1.0.0",

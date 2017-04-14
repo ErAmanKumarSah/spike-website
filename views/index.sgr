@@ -1,0 +1,11 @@
+extends(src='layout.sgr')
+  block(name='content')
+    h2 Spike Demo Website
+
+    h4 @Author : Aman Kumar
+    
+    hr
+
+    h5 Spike is a full featured static website generator written in javascript. It offers an extremely wide base of features and flexibility while remaining a small and simple project at its core
+
+		h4 Spike utilizes a number of other fantastic open source projects for compilation

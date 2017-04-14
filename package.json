@@ -8,6 +8,9 @@
   },
   "bugs": "https://github.com//madras/issues",
   "dependencies": {
+    "babel-preset-latest" : "^6.24.1",
+    "hard-source-webpack-plugin" : "^0.3.11",
+    "image-webpack-loader" : "^3.3.0",
     "reshape-standard": "^1.0.0",
     "spike-css-standards": "^1.0.0",
     "spike-js-standards": "^1.0.0",
@@ -21,10 +24,10 @@
     "spike-core": "^1.0.0",
     "standard": "^10.0.0"
   },
-  "homepage": "https://github.com//madras",
+  "homepage": "https://github.com/aman01/spike-website",
   "main": "app.js",
   "private": true,
-  "repository": "https://github.com//madras",
+  "repository": "https://github.com/aman01/spike-website",
   "scripts": {
     "lint": "standard | snazzy",
     "precommit": "npm run lint -s",
